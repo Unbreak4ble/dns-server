@@ -8,6 +8,8 @@ There is a little explanation about some files that you would like to modify:
     - address (string): ipv4/ipv6 address
     - type (number): for ipv4 use 1, for ipv6 use 28
 
+note: use * as domain name for answer in case of nxdomain.
+
 ### nameservers.txt
 Set nameservers ipv4 to handle with domains that are not in domains.json
 
